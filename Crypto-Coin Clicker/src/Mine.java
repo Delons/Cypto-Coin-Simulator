@@ -1,5 +1,7 @@
-/******
- * The Mine Class
+/**
+ * This class is used to mine the coins. It includes an automine and manualmine
+ * method. Automine is called every minute, manual mine is called when the user
+ * clicks on the mine button.
  */
 
 public class Mine {

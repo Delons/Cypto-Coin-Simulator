@@ -1,7 +1,7 @@
-/*
- * Copyright 2013
+/**
+ * This is the main class of the program. Everything is run from here.
+ * @version A.1.0.1_2
  */
-
 public class Clicker {
 
 	// Game Stage V. Stage Letter - Main Version - Minor Version - Bug Fix -
