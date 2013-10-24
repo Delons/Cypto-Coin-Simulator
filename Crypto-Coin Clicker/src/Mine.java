@@ -1,3 +1,7 @@
+/******
+ * The Mine Class
+ */
+
 public class Mine {
 
 	private static Mine mine;
